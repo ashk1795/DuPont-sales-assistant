@@ -1,0 +1,6 @@
+from scraper import scrape_events_with_playwright
+from enricher import enrich_company_list
+
+raw_companies = scrape_events_with_playwright()
+enriched = enrich_company_list(raw_companiesfor lead in enriched):
+    print(lead) 
