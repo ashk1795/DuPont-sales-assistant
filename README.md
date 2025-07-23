@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tedlar LeadGen
 
 Tedlar LeadGen is a tool for scraping, enriching, and generating personalized outreach for event and company leads.
@@ -33,3 +34,7 @@ tedlar-leadgen/
 ├── README.md
 └── data/                 # Store output files
 ``` 
+=======
+# DuPont-sales-assistant
+Prototype AI assistant for DuPont Tedlar sales lead generation
+>>>>>>> ad37098553b300bc895df2bbe415a00b6245b9a4
